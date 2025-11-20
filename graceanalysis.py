@@ -10,7 +10,7 @@ Data:
 
 Outputs (publication style):
     - Map of 2022-mean TWSA with India & Brazil boxes
-    - 2×2 panel of regional TWSA and monthly changes
+    - Regional pannel TWSA and monthly changes
     - Monthly maps for each box (India, Brazil)
 """
 
@@ -459,3 +459,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
